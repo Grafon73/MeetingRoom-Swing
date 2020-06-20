@@ -5,6 +5,9 @@
 - События “бронирования переговорки” нельзя создать в одно и то же время;
 - Возможность перелистывания недели как в будущее, так и в прошлое;
 
-Apache Maven 3.6.3 
-Java version: 11.0.5, vendor: Oracle Corporation, runtime: C:\jdk-11.0.5
-mysql-connector-java  v8.0.20
+Используемое ПО:
+- Apache Maven 3.6.3
+
+- Java version: 11.0.5, vendor: Oracle Corporation, runtime: C:\jdk-11.0.5
+
+- mysql-connector-java  v8.0.20
