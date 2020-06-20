@@ -8,6 +8,6 @@
 Используемое ПО:
 - Apache Maven 3.6.3
 
-- Java version: 11.0.5, vendor: Oracle Corporation, runtime: C:\jdk-11.0.5
+- Java version: 11.0.5, vendor: Oracle Corporation
 
 - mysql-connector-java  v8.0.20
